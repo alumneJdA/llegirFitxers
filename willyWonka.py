@@ -30,3 +30,4 @@ while (not(paquet.isnumeric()) or int(paquet) < 1 or int(paquet) > 10):
 # Els arxius estan a la carpeta xocolataFabrica i allà es diuen xocolata1.txt .. xocolata2.txt ... i així fins a xocolata10.txt
 # Per obrir l'arxiu, el nom d'aquest és  xocolataFabrica/xocolata1.txt  si l'usuari vol el paquet 1
 print("Prova")
+print("Prova2")
